@@ -1,0 +1,22 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.content .content-menu {
+    display: flex;
+    align-items: center;
+}
+
+.content .content-menu h3  {
+    margin: 0 0 0 30px;
+}
+
+.content button {
+    border: 0;
+    outline: none;
+    background: none;
+    cursor: pointer;
+}

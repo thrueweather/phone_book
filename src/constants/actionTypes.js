@@ -1,0 +1,10 @@
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const CLOSE_MODAL = 'CLOSE_MODAL';
+export const NAME = 'NAME';
+export const FIRST_NAME =  'FIRST_NAME';
+export const NUMBER = 'NUMBER';
+export const TYPE = 'TYPE';
+export const NEW_CONTACT = 'NEW_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const SWITCH_EDIT_FORM = 'SWITCH_EDIT_FORM';
+export const EDIT_CONTACT = 'EDIT_CONTACT';

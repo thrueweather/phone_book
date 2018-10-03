@@ -1,0 +1,27 @@
+.contacts .contact {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;}
+    .contacts .contact li {
+        width: calc(100% / 5 - 40px - 2%);
+        position: relative;
+        list-style: none;
+        margin: 1%;
+        padding: 20px;
+        box-shadow: 0 0 10px #0000005c;
+        background-color: white;}
+        .contacts .contact li .editing {
+            position: absolute;
+            top: 0;
+            right: 10%;
+            cursor: pointer;}
+        .contacts .contact li .delete {
+            position: absolute;
+            top: 0;
+            right: 0;
+            cursor: pointer;}
+        .contacts .contact li h3 {
+            margin-top: 0;}
+        .contacts .contact li h3, h4, p {
+            display: inline-block;}
