@@ -3,7 +3,7 @@ import AppBar from '@material-ui/core/AppBar';
 
 import AppBarContent from '../containers/AppBarContent';
 import Modal from '../containers/Modal';
-import Contacts from './Contacts';
+import Contacts from '../containers/Contacts';
 
 import '../styles/App.css';
 
